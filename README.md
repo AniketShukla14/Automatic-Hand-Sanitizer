@@ -1,5 +1,5 @@
 # Automatic-Hand-Sanitizer
-<li>Automatic hand sanitizer was created by using arduino codes and was deployed in college enterance gate and in canteen during the time of pandemic./li>
+<li>Automatic hand sanitizer was created by using arduino codes and was deployed in college enterance gate and in canteen during the time of pandemic.</li>
   <li> The module were frequently used by the students and it was really helpul. </li>
 <br>
   <br>
