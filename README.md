@@ -22,13 +22,11 @@
 <ol>
     <ul>
       <li>Arduino IDE</li>
-       <li>Processing IDE 3.3.4</li>
-      <li>Arduino </li>
        <li>Servo motor</li>
-      <li> Ultrasonic Sensor </li>
-       <li>Cable chord</li>
+      <li>motor driver </li>
+      <li> IR Sensor </li>
+       <li>Power supply</li>
       <li>Jumper Wires</li>
-      <li>Breadboard</li>
      <!-- <li><a href="https://www.javascript.com/">JavaScript</a></li> -->
       </ul>
   <p align="right">(<a href="#Radar-System">back to top</a>)</p>
