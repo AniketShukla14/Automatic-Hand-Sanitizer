@@ -1,6 +1,6 @@
 # Automatic-Hand-Sanitizer
 <li>Automatic hand sanitizer was created by using Arduino codes and was deployed in college entrance gate and in canteen during the time of pandemic.</li>
-  <li> The module were frequently used by the students and it was really helpul. </li>
+  <li> The module is frequently used by the students and it was really helpul. </li>
 <br>
   <br>
 
@@ -33,16 +33,16 @@
   </ol>
   
 ## Objective
-<li>In the time of pandemic the automatic hand sanitizer idea came up and it was created using arduino and a hardware design in order to follow covid guidelines properly. </li>
+<li>In the time of pandemic the automatic hand sanitizer idea came up and it was created using arduino and a hardware design in order to follow COVID-19 guidelines properly. </li>
 <p align="right">(<a href="#Radar-System ">back to top</a>)</p>
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The project is containing IR Sensor which sense the humand hand and the motor pulls the sanitizer which helps to automatically sanitize without touching anything.
+The project is containing IR Sensor which sense the human hand and the motor pulls the sanitizer which helps to automatically sanitize without touching anything.
 <br>
 <br>
-To see the the working You can Click the link below
+To see the the working click the link below
 <br>
 https://youtu.be/B0nBO3muIrI
 
